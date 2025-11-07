@@ -1,0 +1,18 @@
+.footer {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.website {
+  color: #000;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  font-size: 14px;
+}
+
+.address {
+  font-size: 14px;
+  font-style: italic;
+  color: #000;
+  margin-top: 4px;
+}
