@@ -28,7 +28,7 @@ Aplicación web que permite:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/camper-cafe.git
+git clone https://github.com/Tat0n0/CRUD-de-cafeter-a-con-Fetch-API
 cd camper-cafe
 
 # Instalar dependencias
