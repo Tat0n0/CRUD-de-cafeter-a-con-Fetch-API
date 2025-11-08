@@ -48,7 +48,7 @@ export const updateCategoria = async (id, datos) => {
 export const deleteCategoria = async (id) => {
   try {
     const body = { usuario_id: USUARIO_ID };
-    const res = await fetch(`${BASE_URL}/categorias/${id}/`, {
+    const res = await fetch(`${BASE_URL}/categorias/${id}`, {
       method: "DELETE",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(body),
